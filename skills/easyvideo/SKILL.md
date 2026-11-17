@@ -11,7 +11,7 @@ description: 用 EasyVideo 把视频做成网页（film.html + window.film）。
 
 ## 安装 CLI
 
-一条命令，直接从 Release 上的 tarball 装 —— 不经过 npm registry，也不用自己装 Node / Chromium /ffmpeg：
+一条命令，直接从 Release 上的 tarball 装 —— 不经过 npm registry。
 
 
 
@@ -42,9 +42,6 @@ easyvideo
 
 ## 不要做
 
-
-
-* 不要自己装 Node、Chromium、ffmpeg—— 运行时已经自带。
 
 * 不要在同一个工程上同时跑两个 `render` / `look`，它们会抢 `.film/`。
 
