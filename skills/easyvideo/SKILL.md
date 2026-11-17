@@ -1,12 +1,11 @@
-***
+---
 
 name: easyvideo
 
 description: 用 EasyVideo 把视频做成网页（film.html + window.film）。当用户要出片、混剪、复刻、做动画 / 宣传片 / 讲解片、剪辑、检查、渲染导出 MP4，或要打开 EasyVideo 及其 Studio 时使用。
 
+---
 
-
-***
 
 # EasyVideo
 
